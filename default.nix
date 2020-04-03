@@ -1,0 +1,1 @@
+scopedImport (import ./scope.nix)
